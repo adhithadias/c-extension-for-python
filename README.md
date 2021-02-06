@@ -25,3 +25,6 @@ CC=gcc python setup.py install
 # execute out function
 >>> fputs.fputs("Hello World!", "./dummy_text.txt")
 ```
+
+## Reference
+1. https://realpython.com/build-python-c-extension-module/
